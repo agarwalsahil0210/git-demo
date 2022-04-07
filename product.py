@@ -1,1 +1,1 @@
-print(3*4)
+print("the product is", 3*4)
